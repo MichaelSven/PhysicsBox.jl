@@ -43,7 +43,7 @@ function nfiBrute(x,T)
         if x == 0
             return NaN
         else
-            return - 1. /(x*pi)
+            return  1. /(x*pi)
         end
     end
     return imag(trigamma(0.5-im*x/(2*pi*T))/(2*pi^2*T))
