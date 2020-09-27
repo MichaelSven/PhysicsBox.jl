@@ -1,7 +1,7 @@
 name = "PhysicsBox"
 uuid = "e99edf11-c1e6-4411-aba0-b273fa09fd00"
 authors = ["michaelSven <michael.sven.ferguson@gmail.com>"]
-version = "0.1.0"
+version = "0.1.1"
 
 [deps]
 QuadGK = "1fd47b50-473d-5c70-9696-f719f8f3bcdc"
